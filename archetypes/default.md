@@ -8,6 +8,7 @@ author: "Me"
 author: ["<author1>", "<author2>"]
 showToc: true
 TocOpen: false
+UseHugoToc: true
 draft: false
 hidemeta: false
 comments: false
@@ -23,7 +24,6 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
     image: "<image path/url>"
     alt: "<alt text>"
@@ -31,7 +31,7 @@ cover:
     relative: false
     hidden: true
 editPost:
-    URL: "https://github.com/masterofbusinessadministration/blog/content"
+    URL: "https://github.com/masterofbusinessadministration/blog/tree/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
 ---

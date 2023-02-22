@@ -3,15 +3,15 @@ title: "Iran's economic coordinates"
 date: 2023-02-22T10:40:52+03:30
 # weight: 1
 aliases: ["/coordaniates-2023"]
-tags: ["first"]
-author: "Me"
-author: ["Navid Mehdizadeh", "MohammadReza Tayyebi"]
-showToc: true
+tags: ["economics", "export", "import", "trade", "commerce", "global"]
+author: "Navid Mehdizadeh"
+author: ["Navid Mehdizadeh"]
+showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "<description text>"
+description: "This report provides an overview of the economic health of Iran, its export and import activity, as well as its current geopolitical situation. It is based on reliable third-party sources and up-to-date information gathered by government institutions. To measure the overall state of the economy, this report includes key economic indicators such as inflation rate, unemployment rate, and gross domestic product (GDP). Additionally, it details Iran’s trade dynamics including major exports and imports as well as foreign investments." # description by ChatGPT.
 # canonicalURL: "coordinates-2023"
 disableHLJS: true
 disableShare: false
@@ -23,17 +23,17 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ShowWordCount: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
+UseHugoToc: false
 # cover:
 #     image: "<image path/url>" 
 #     alt: "<alt text>" 
 #     caption: "<text>" 
 #     relative: false 
 #     hidden: true
-# editPost:
-#     URL: "https://github.com/masterofbusinessadministration/blog/content"
-#     Text: "Suggest Changes"
-#     appendFilePath: true
+editPost:
+    URL: "https://github.com/masterofbusinessadministration/blog/tree/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
 ---
 
 # General view

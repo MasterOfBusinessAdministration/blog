@@ -5,7 +5,7 @@ date: {{ .Date }}
 # aliases: ["/first"]
 tags: ["first"]
 author: "Me"
-author: ["<author1>", "<author2>"] # multiple authors
+author: ["<author1>", "<author2>"]
 showToc: true
 TocOpen: false
 draft: false
@@ -13,7 +13,7 @@ hidemeta: false
 comments: false
 description: "<description text>"
 canonicalURL: "{{ .Name }}"
-disableHLJS: true # to disable highlightjs
+disableHLJS: true
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -25,13 +25,13 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    image: "<image path/url>"
+    alt: "<alt text>"
+    caption: "<text>"
+    relative: false
+    hidden: true
 editPost:
     URL: "https://github.com/masterofbusinessadministration/blog/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    Text: "Suggest Changes"
+    appendFilePath: true
 ---

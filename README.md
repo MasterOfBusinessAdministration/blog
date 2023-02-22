@@ -24,3 +24,9 @@ To publish
 ```
 hugo
 ```
+
+Remove large files from git history
+```
+git filter-branch --tree-filter 'rm -f filename.zip' HEAD
+git push origin --force --all
+```

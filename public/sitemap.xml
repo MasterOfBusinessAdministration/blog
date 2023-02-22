@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mbatalks.ir/blog/tags/first/</loc>
+    <lastmod>2023-02-22T10:40:52+03:30</lastmod>
+  </url><url>
+    <loc>https://mbatalks.ir/blog/posts/coordinates-2023/</loc>
+    <lastmod>2023-02-22T10:40:52+03:30</lastmod>
+  </url><url>
     <loc>https://mbatalks.ir/blog/</loc>
-    <lastmod>2023-02-21T11:21:05+03:30</lastmod>
+    <lastmod>2023-02-22T10:40:52+03:30</lastmod>
   </url><url>
     <loc>https://mbatalks.ir/blog/posts/</loc>
-    <lastmod>2023-02-21T11:21:05+03:30</lastmod>
-  </url><url>
-    <loc>https://mbatalks.ir/blog/posts/test/</loc>
-    <lastmod>2023-02-21T11:21:05+03:30</lastmod>
-  </url><url>
-    <loc>https://mbatalks.ir/blog/categories/</loc>
+    <lastmod>2023-02-22T10:40:52+03:30</lastmod>
   </url><url>
     <loc>https://mbatalks.ir/blog/tags/</loc>
+    <lastmod>2023-02-22T10:40:52+03:30</lastmod>
+  </url><url>
+    <loc>https://mbatalks.ir/blog/archives/</loc>
+  </url><url>
+    <loc>https://mbatalks.ir/blog/categories/</loc>
   </url>
 </urlset>

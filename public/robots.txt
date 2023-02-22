@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mbatalks.ir/blog/sitemap.xml

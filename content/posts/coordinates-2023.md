@@ -36,19 +36,19 @@ editPost:
     appendFilePath: true
 ---
 
-# General view
+## General view
 
 Iran is located in western Asia with the area of 1,648,195 sq. km (636,372 sq. mi) as the 18th largest country in the world. Iran with 5,440 km land boundaries and 2,440 km coastline which after China has the most neighboring country in the world. Iran has border with Russia, Turkmenistan, Azerbaijan and Armenia to the north, with Pakistan and Afghanistan to the east, with Iraq and Turkey to the west and with Saudi Arabia, Kuwait, Bahrain, Qatar and United Arab Emirates in south through Persian Gulf, and Golf of Oman.
 
 75 million inhabitants in Iran have placed this country as 18th in the world which is the second largest population in the region of Middle East after Egypt. The country of Iran is known as one of the richest countries in many resources such as energy, mines, nature etc. It has the fourth largest hydrocarbon and petroleum reserves which place this country as a second exporter of crude oil in the world. It has also Second largest natural gas reserves after Russia.
 
-# Economical Status
+## Economical Status
 
 Since 10 years the governments have started to do initiate a large privatization program - in reality - which has been partially done in only limited parts of the market till now. Some of the sectors subjected to this strategy are: Mining, Industrial and Construction Enterprises, Downstream Sectors of the Oil and Gas Industries, Banking, Insurance, Transportation etc. Although the project is not accomplished completely, the aim of this shifting from direct involvement of the government in ownership to supervisory of mentioned sectors could be considered as an opportunity for new business owners, projects and ideas.
 
 Regarding to World Bank reports, the economy of Iran has the second place among all Middle Eastern and North African region countries. however, it is important to know that majority of these important situations in mentioned area is coming through their high level of energy resources which makes them considered as energy superpowers. This economy structure is heavily dependent on exportation of the energy where in the same time, these countries are ideal destination for global companies and business activists for technology and industrial products and services as a very attractive and fast growing market.
 
-# Indeces
+## Indeces
 
 | Indicator 	| Notes 	| Unit 	| 2023 	| 2022 	| Growth 	| 2015 	|
 |---	|---	|---	|---	|---	|---	|---	|
@@ -81,7 +81,7 @@ Regarding to World Bank reports, the economy of Iran has the second place among 
 | Imports Distributions 	| Chemicals 	| United States Dollars (Billions) 	|  	|  	|  	| 7.256 	|
 | Imports Distributions 	| Other 	| United States Dollars (Billions) 	|  	|  	|  	| 17.46 	|
 
-# Money Cost
+## Money Cost
 
 According to reports of World Bank (2014) and referring to Central Bank of Iran reports, the Interest rate spread was -3.8% with lending interest rate of 11.0. However, in reality the lending rate offered by banks and Financial Institutes are between 20 to 28 % annually. Surprisingly, this rate is even more than 36% per year in private sector which is come through the very unstable country growth financially and high inflation rate.
 

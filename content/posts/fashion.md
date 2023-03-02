@@ -35,6 +35,8 @@ editPost:
     appendFilePath: true
 ---
 
+{{<cta_atiye>}}
+
 ## Apparel
 
 The apparel market encompasses every kind of clothing, from sportswear to businesswear, from value clothing to statement luxury pieces. After the market recovered in 2021 from the effects of the coronavirus (COVID-19) pandemic, high inflation in 2022 posed more difficulties for the global apparel industry. The cost of production rose, and consumer confidence fell. The revenue of the global apparel market was calculated to amount to 1.53 trillion U.S. dollars in 2022, a slight decrease on the previous year. However, revenue was forecast to increase in 2023, to more than 1.7 trillion dollars.

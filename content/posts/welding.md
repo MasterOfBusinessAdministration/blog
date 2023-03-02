@@ -57,16 +57,14 @@ region.
 The consumption of these products are also the same with a very small
 differences in volume but many differences in kind.
 
-
 ## Market Size
 
-| Steel Structure Plants 	| , 	| 1,042 Units 	|
-|---	|---	|---	|
-| Steel Structure Capacity 	| , 	| 4,000,000 Metric Tone 	|
-| Average Steel Price R Structural Use 	| , 	| ≈ 650 $ / Per Metric Tones 	|
-| Structural Manufacturing Costs 	| , 	| 500~750 $ / Per Metric Tones 	|
-| Steel Structure Market  Value 	| , 	| $ 4.6 Bill ~ $ 5.6 Bill  	|
-
+| Steel Structure Plants | 1,042 Units 	|
+|---	|---	|
+| Steel Structure Capacity 	| 4,000,000 Metric Tone 	|
+| Average Steel Price R Structural Use 	| ≈ 650 $ / Per Metric Tones 	|
+| Structural Manufacturing Costs 	| 500~750 $ / Per Metric Tones 	|
+| Steel Structure Market  Value 	| $ 4.6 Bill ~ $ 5.6 Bill  	|
 
 ## Distribution
 
